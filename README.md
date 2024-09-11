@@ -1,6 +1,6 @@
-# Nome do Projeto
+# SysEurus Monitor
 
-Este repositório contém apenas os **releases** (arquivos binários) da aplicação **[Nome do Projeto]**. O código-fonte deste projeto não está disponível publicamente. No entanto, você pode baixar e utilizar a versão mais recente da aplicação a partir dos releases fornecidos abaixo.
+Este repositório contém apenas os **releases** (arquivos binários) da aplicação **[SysEurus Monitor]**. O código-fonte deste projeto não está disponível publicamente. No entanto, você pode baixar e utilizar a versão mais recente da aplicação a partir dos releases fornecidos abaixo.
 
 ## Releases
 
